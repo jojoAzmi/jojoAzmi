@@ -1,7 +1,8 @@
-## Hiii! 👋 Jojo's Here
+## Hi! 👋 Jojo's Here
 
--------- Still Working on github --------
+-------- Still Working on it (0.3%) progress --------
 
 - 📖 I’m currently studying on Politeknik Negeri Sriwijaya as a Computer Engineering Student
-- 🌱 Still learning From Basic 
-- 📫 Reach me at : **Instagram**: [joharar.r](https://www.instagram.com/joharar.r/)
+- 🌱 Still learning From Basic
+  
+📫 Reach me at : **Instagram**: [joharar.r](https://www.instagram.com/joharar.r/)
