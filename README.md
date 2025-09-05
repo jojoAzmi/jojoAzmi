@@ -5,4 +5,4 @@
 - 📖 I’m currently studying on Politeknik Negeri Sriwijaya as a Computer Engineering Student
 - 🌱 Still learning From **Basic**
 
-📫 Reach me at : [Instagram](https://www.instagram.com/joharar.r/)
+📫 contact us! : [Instagram](https://www.instagram.com/joharar.r/)
