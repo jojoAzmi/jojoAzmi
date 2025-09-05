@@ -1,6 +1,6 @@
 ## Hiii! 👋 Jojo's Here
 
--Still Working on github-
+-------- Still Working on github --------
 
 > 📖 I’m currently studying on Politeknik Negeri Sriwijaya as a Computer Engineering Student
 > 🌱 Still learning From Basic 
