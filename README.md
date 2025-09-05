@@ -5,8 +5,6 @@
 - 📖 I’m currently studying on Politeknik Negeri Sriwijaya as a Computer Engineering Student
 - 🌱 Still learning From **Basic**
 
-<a href="https://user.github.io/repo">
-  <img src="https://raw.githubusercontent.com/user/repo/main/images/screenshot.png" alt="Tangkapan layar aplikasi">
-</a>
+[![Logo Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_logo_with_wordmark.svg/1200px-Java_logo_with_wordmark.svg.png)](https://www.oracle.com/java/technologies/downloads/)
   
 📫 Reach me at : [Instagram](https://www.instagram.com/joharar.r/)
